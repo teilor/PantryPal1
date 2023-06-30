@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PantryPal1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Local</string>
+    <string name="title_notifications">Refeição</string>
+    <string name="title_lista">Lista de compras</string>
+
+
+</resources>
